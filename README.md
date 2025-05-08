@@ -24,7 +24,6 @@ We use the CSFID-300 dataset, containing:
   ```bash
   distance(anchor, positive)} + {margin} < {distance(anchor, negative)}
   
-
 ### 🔁 Triplet Generation
 - **Anchor**: crime scene image
 - **Positive**: same class reference image
