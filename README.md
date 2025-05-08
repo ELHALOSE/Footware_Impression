@@ -45,7 +45,7 @@ We use the CSFID-300 dataset, containing:
 
 ###  🎨 Visualization:
 -We display the probe image alongside the expected results.
-![Image Alt Text](path_to_image)
+![Image Alt Text](11.png)
 
 ---
 ## Clone:
