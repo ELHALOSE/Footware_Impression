@@ -46,3 +46,8 @@ We use the CSFID-300 dataset, containing:
 ###  🎨 Visualization:
 -We display the probe image alongside the expected results.
 ![Image Alt Text](path_to_image)
+
+---
+## Clone:
+```bash
+git clone https://github.com/ELHALOSE/Footware_Impression.git
